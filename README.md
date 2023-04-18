@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div style="align:center">
   [<strong>Stats sur Repo publique</strong>]
 </div>
 <div style="align:center">
