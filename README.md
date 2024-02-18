@@ -12,6 +12,13 @@
 
 ###
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
+###
+
 <img align="right" height="150" src="http://www.clipartbest.com/cliparts/9TR/Ljq/9TRLjq8Bc.gif"  />
 
 ###
