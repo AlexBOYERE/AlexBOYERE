@@ -13,7 +13,7 @@
 ###
 
 <p align="center"> 
-  Visitor count<br>
+  Comptage de visiteur <br>
   <img src="https://profile-counter.glitch.me/alexboyere/count.svg" />
 </p>
 
