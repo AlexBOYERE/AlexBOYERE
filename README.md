@@ -1,5 +1,5 @@
-<h2 align="left">Hey 👋! Je m'appelle Alexandre BOYERE et je suis développeur.</h2>
-<p>Situé en Normandie.</p>
+<h2 align="left">Hey 👋!</h2>
+<p>Içi je partage mes projets ainsi que mes curiosités</p>
 
 ###
 
